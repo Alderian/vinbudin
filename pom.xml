@@ -23,7 +23,7 @@
 		<vaadin.version>7.3.5</vaadin.version>
 		
 		<spring.version>4.1.2.RELEASE</spring.version>
-		<spring-boot.version>1.2.0.RC1</spring-boot.version>
+		<spring-boot.version>2.5.12</spring-boot.version>
 		
 		<start-class>net.anthavio.vinbudin.VinbudinBoot</start-class>
 		
